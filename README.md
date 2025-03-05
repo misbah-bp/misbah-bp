@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Miabah Yousaf</h1>
 
 <!--
 **misbah-bp/misbah-bp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1> Profile Views</h1>
+<p> <img src="https://komarev.com/ghpvc/?username=misbahkk&label=Profile%20views&color=0e75b6&style=flat" alt="misbahkk" /> </p>
+<p>This is the number of visitors to my profile README.md file.</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=misbahkk&" alt="misbahkk" /></p>
