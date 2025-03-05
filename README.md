@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=misbahkk&show_icons=true&locale=en" alt="misbahkk" /></p>
 
 <h1> Profile Views</h1>
-<p> <img src="https://komarev.com/ghpvc/?username=misbahkk&label=Profile%20views&color=0e75b6&style=flat" alt="misbahkk" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=misbah-bp&label=Profile%20views&color=0e75b6&style=flat" alt="misbah-bp" /> </p>
 <p>This is the number of visitors to my profile README.md file.</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=misbahkk&" alt="misbahkk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=misbah-bp&" alt="misbah-bp" /></p>
