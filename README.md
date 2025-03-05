@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>Top Languages</h1>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=misbah-bp&show_icons=true&locale=en&layout=compact" alt="misbah-bp" /></p>
 
 <p>This chart shows the top programming languages I've used on GitHub, based on the number of lines of code.</p>
 <h1>📈 Misbah's GitHub Stats</h1>
